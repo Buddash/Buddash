@@ -71,7 +71,7 @@ I try to lead an active lifestyle, being a teenager I was fond of soccer, played
 
 ## Navigating repositories
  - ng-free-zen - Test project of training full stack website development - https://github.com/Buddash/ng-free-zen
- - QA testing - Set of solved testing tasks and projects - 
+ - QA testing - Set of solved testing tasks and projects - https://github.com/Buddash/QA-testing
  - The list may be supplemented
 <!--
 **Buddash/Buddash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
