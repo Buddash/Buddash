@@ -1,28 +1,44 @@
 ### Hi there 👋
 I am a quality assurance and design systems support engineer.
+
 My education - Design of thermal power plants. SSTU University
+
 My resume on HH.ru - https://engels.hh.ru/resume/d06f7441ff02c8ce450039ed1f4d5366595937
+
 With a job offer you can contact me by e-mail - smelkovila26@gmail.com, or write on HH.ru.
+
 ## Professional Skills.
+
 ### Software Testing.
 
 Knowledge of testing theory, mastery of test design techniques such as (boundary value analysis, equivalence classes, pairwise testing, decision table).
+
 Conducting various types of testing (regression, functional, configuration, installation, build testing, volume testing).
+
 Writing test cases, checklists based on software documentation, bug reports.
 
 API testing (Postman, Swagger).
-Working with PostgreSQL database at the level of simple queries (SELET, JOIN).
+
+Working with PostgreSQL database at the level of simple queries (SELEСT, JOIN).
+
 Working with browser console, ability to read error codes.
+
 Ability to work with GIT version control system.
-Ability to work with Azure DevOps task control system
+
+Ability to work with Azure DevOps task control system.
+
 Working with GITBash command line.
 
 ---------------------------------------------------
 
 Knowledge of JavaScript at a basic level (loops, methods, functions).
+
 Work with PostgreSQL database at the level of simple queries (SELET, JOIN).
+
 HTML at the elementary level (simple markup by bam methodology).
+
 Basic knowledge of Figma.
+
 Work with video editors SonyVEGAS, Adobe Premier Pro.
 
 ---------------------------------------------------
